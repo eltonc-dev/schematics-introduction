@@ -6,6 +6,8 @@ Link dos slides:
 
 https://docs.google.com/presentation/d/1nTASvAsqkQ-KANC0nvDGr1EuIU4P4_d7UCGlbZgBCmQ/edit?usp=sharing
 
+Existem comentários dentro do código explicando como as coisas estão funcionando
+
 # Steps
 
 ## Instalar devkit schematics
